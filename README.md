@@ -38,9 +38,6 @@ With Tailwind CSS, Quizzy achieves consistent styling across the application, en
 
 1. Start the application: `yarn dev`
 2. Open your browser and visit `http://localhost:5173`
-3. You will be greeted with the welcome screen of Quizzy.
-4. Click on the "Get Started Here" button to start the quiz.
-5. Answer the quiz questions and see your results.
 
 ## Contributing
 
