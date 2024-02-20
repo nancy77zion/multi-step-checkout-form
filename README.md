@@ -5,7 +5,7 @@ Welcome to my multi step form
 ## Description
 
 
-## Screenshots of CodeQuiz app
+## Screenshots of my project
 
 ## Styling with Tailwind CSS
 
